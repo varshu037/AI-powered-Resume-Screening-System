@@ -1,9 +1,19 @@
 # AI Powered Resume Screening System
 
 An AI-based web application that analyzes resumes and provides ATS scores, technical skill extraction, missing skill detection, and intelligent suggestions for improving resume quality.
-## 📸 Project Preview
+## 📸 Project Screenshots
 
-![Home Page](screenshots/home.png)
+### 🏠 Home Page
+![Home Page](screenshots/home.jpg)
+
+### 📤 Upload Resume
+![Upload Resume](screenshots/upload.jpg)
+
+### 📊 Resume Analysis
+![Analysis](screenshots/analysis.jpg)
+
+### 📈 Dashboard
+![Dashboard](screenshots/dashboard.jpg)
 ## Features
 
 - Upload Resume (PDF, DOC, DOCX)
